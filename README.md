@@ -16,7 +16,6 @@ A playful and modern landing page for a kidswear brand — bringing together fun
 ## 🔗 Live Preview
 
 - [View Website](https://milanxcode.github.io/Little-Loom/)  
-- [GitHub Repository](https://github.com/milanxcode/Little-Loom)
 
 ---
 
