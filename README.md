@@ -29,7 +29,7 @@ A playful and modern landing page for a kidswear brand — bringing together fun
 
 ## 📸 Screenshots
 
-![Screenshot](./img/mockup.png)
+![Screenshot](./img/mockup.jpg)
 
 ---
 
